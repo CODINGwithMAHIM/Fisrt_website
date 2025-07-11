@@ -28,6 +28,6 @@ This portfolio was built using **HTML**, **CSS**, and features a responsive and 
 
 ## 📷 Preview
 
-You can view the live version here: **[Live Demo](https://your-github-username.github.io/your-repo-name)**  
+You can view the live version here: **[Live Demo](https://codingwithmahim.github.io/Fisrt_website/)**  
 
 
